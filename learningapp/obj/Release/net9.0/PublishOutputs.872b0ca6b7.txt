@@ -1,0 +1,7 @@
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/learningapp
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/appsettings.Development.json
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/appsettings.json
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/learningapp.dll
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/learningapp.deps.json
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/lipunpatel/Web/Azure DotNet/learningapp/bin/Publish/learningapp.pdb
